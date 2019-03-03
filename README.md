@@ -3,7 +3,6 @@
 ### Screenshot
 <p align="center">
   <img src="Images/Screenshot_20190303_104925.png"/>
-  <img src="stocksight-dashboard-kibana.png"/>
   <img src="Images/Screenshot_20190303_105024.png"/>
   <img src="Images/Screenshot_20190303_105038.png"/>
   <img src="Images/Screenshot_20190303_105055.png"/>
