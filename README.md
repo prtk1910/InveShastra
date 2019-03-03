@@ -12,7 +12,7 @@
   <img src="Screenshot_20190303_152138.png"/>
   <img src="Screenshot_20190303_152144.png"/>
   <img src="Screenshot_20190303_152144.png"/>
-  <img src="Screenshot_20190303_163052.png"/>
+<!--   <img src="Screenshot_20190303_163052.png"/> -->
   <img src="Screenshot_20190303_163103.png"/>
   <img src="Screenshot_20190303_163109.png"/>
   <img src="Screenshot_20190303_163112.png"/>
