@@ -24,7 +24,7 @@
 
 Step 1 - Download the following
 
-https://www.apachefriends.org/download.html - XAMPP for PHP, MySQL https://github.com/viral98/Sentiment-Analysis-Politics - download this
+https://www.apachefriends.org/download.html - XAMPP for PHP, MySQL - download this
 
 https://www.metabase.com/start/jar.html - Download this jar file
 
